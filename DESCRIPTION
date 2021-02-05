@@ -1,0 +1,19 @@
+Package: AppsilonTestApp
+Title: Appsilon Recruitement Test Shiny Application
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Samuel",
+           family = "Boafo",
+           role = c("aut", "cre"),
+           email = "samuel@walulel.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Appsilon test application for analysing AIS data.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

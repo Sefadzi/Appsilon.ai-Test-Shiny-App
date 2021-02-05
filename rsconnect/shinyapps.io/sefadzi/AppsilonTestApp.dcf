@@ -1,0 +1,13 @@
+name: AppsilonTestApp
+title: AppsilonTestApp
+username:
+account: sefadzi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3529299
+bundleId: 4180825
+url: https://sefadzi.shinyapps.io/AppsilonTestApp/
+when: 1612438459.56343
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: DESCRIPTION|NAMESPACE|tests/testthat.R|tests/testthat/test-utils.R
